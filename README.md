@@ -1,7 +1,7 @@
 # Compressa Burguer
 
-Prévia do site da Compressa Burguer. HTML, CSS e JavaScript, cardápio com fotos e vídeo do estabelecimento.
+Prévia de apresentação com 86 itens, fotos, vídeo automático sem controles e animações suaves.
 
-Sirva a raiz do repositório com um servidor HTTP. Na Vercel, use o preset Other, sem comando de build e com diretório de saída `.`.
+Site estático em HTML, CSS e JavaScript. Sirva a raiz com HTTP. Na Vercel: preset Other, sem comando de build e diretório de saída `.`.
 
-Pedidos direcionados ao iFood. Cardápio consultado no delivery oficial em 02/11/2026; valores não são sincronizados automaticamente.
+Os pedidos são finalizados no iFood. Produtos e preços consultados no delivery oficial https://app.jotaja.com/compressalanches em 02/11/2026; não há sincronização automática. Capa ilustrativa; fotos dos produtos provenientes do cardápio oficial. Endereço e horário conforme Instagram fornecido.
